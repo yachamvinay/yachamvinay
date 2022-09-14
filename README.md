@@ -9,11 +9,15 @@
 - 📫 How to reach me: vinay.y3216@gmail.com 
 
 
+
+
 **Connect With Me**
 
 <a href="https://www.linkedin.com/in/vinay-yacham-6580321b6/">
 <img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?linkedin=spring&logoColor=fff" height="50" width="50">
 </a> 
+
+
 
 
 **Languages and Tools**
