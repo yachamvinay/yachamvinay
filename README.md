@@ -1,13 +1,12 @@
 ### Hey there 👋
 
 
-- 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning Java Full Stack 
-- 👯 I’m looking to collaborate on who need any support to develop the Web Dev Projects 
-- 🤔 I’m looking for help with Spring Boot and AngularJS
-- 💬 Ask me about HTML, CSS, BootStrap, JavaScript, AngularJS, Spring Boot
-- 📫 How to reach me: vinay.y3216@gmail.com 
-
+🔭 I’m currently working as Data Analyst
+🌱 Good insights about Data extraction, Data transformation and Data visualization
+👯 I’m looking to collaborate on projects needing support with Data Analytics and Visualization projects
+🤔 I’m looking for help with Power BI, SQL, Excel
+💬 Ask me about SQL, Power BI, Data Modeling, DAX, and Data Warehousing
+📫 How to reach me: vinay.y3216@gmail.com
 
 
 
