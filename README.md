@@ -1,12 +1,12 @@
 ### Hey there 👋
 
 
-🔭 I’m currently working as Data Analyst
-🌱 Good insights about Data extraction, Data transformation and Data visualization
-👯 I’m looking to collaborate on projects needing support with Data Analytics and Visualization projects
-🤔 I’m looking for help with Power BI, SQL, Excel
-💬 Ask me about SQL, Power BI, Data Modeling, DAX, and Data Warehousing
-📫 How to reach me: vinay.y3216@gmail.com
+- 🔭 I’m currently working as Data Analyst
+- 🌱 Good insights about Data extraction, Data transformation and Data visualization
+- 👯 I’m looking to collaborate on projects needing support with Data Analytics and Visualization projects
+- 🤔 I’m looking for help with Power BI, SQL, Excel
+- 💬 Ask me about SQL, Power BI, Data Modeling, DAX, and Data Warehousing
+- 📫 How to reach me: vinay.y3216@gmail.com
 
 
 
